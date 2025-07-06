@@ -1,1 +1,6 @@
-// placeholder content
+module.exports = {
+  plugins: {
+    tailwindcss: {},
+    autoprefixer: {},
+  },
+}
