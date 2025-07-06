@@ -1,4 +1,4 @@
-// placeholder contentimport { useState, useEffect } from 'react';
+// placeholder contentimport React, { useState, useEffect } from 'react';
 import { LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer } from 'recharts';
 
 const API_URL = process.env.NEXT_PUBLIC_API_URL || 'http://localhost:5000';
